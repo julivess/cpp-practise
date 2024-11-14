@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/bad_hash_solution.dir/solution/main.cpp.o -o ../bad_hash_solution 
